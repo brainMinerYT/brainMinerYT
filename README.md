@@ -5,7 +5,7 @@
 #
 ## Check My Links Below:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/brainMinerYT) [![YouTube Badge](https://img.shields.io/badge/-YouTube-c4302b?style=flat-quare&labelColor=c4302b&logo=youtube&logoColor=white&link=link)](https://www.youtube.com/@brainMinerYT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/brainMinerYT) [![YouTube Badge](https://img.shields.io/badge/-YouTube-c4302b?style=flat-quare&labelColor=c4302b&logo=youtube&logoColor=white&link=link)](https://www.youtube.com/@brainMinerYT)  [![YouTube Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-quare&labelColor=0e76a8&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/azizmertzengin/)
 
 
 <!--
