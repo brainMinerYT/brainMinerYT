@@ -1,6 +1,15 @@
-### Hi there 👋
+# brainMiner's GitHub Profile
+#
+## _GitHub Status: Maintenance_
+## _YouTube Status: No Longer Active_
+#
+## Check My Links Below:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/brainMinerYT) [![YouTube Badge](https://img.shields.io/badge/-YouTube-c4302b?style=flat-quare&labelColor=c4302b&logo=youtube&logoColor=white&link=link)](https://www.youtube.com/@brainMinerYT)
+
 
 <!--
+### Hi there 👋
 **brainMinerYT/brainMinerYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
